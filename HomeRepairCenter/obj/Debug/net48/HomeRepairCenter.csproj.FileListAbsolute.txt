@@ -1,0 +1,8 @@
+C:\Users\SAWA\Desktop\HomeRepairCenter\bin\Debug\net48\HomeRepairCenter.exe.config
+C:\Users\SAWA\Desktop\HomeRepairCenter\bin\Debug\net48\HomeRepairCenter.exe
+C:\Users\SAWA\Desktop\HomeRepairCenter\bin\Debug\net48\HomeRepairCenter.pdb
+C:\Users\SAWA\Desktop\HomeRepairCenter\obj\Debug\net48\HomeRepairCenter.csprojAssemblyReference.cache
+C:\Users\SAWA\Desktop\HomeRepairCenter\obj\Debug\net48\HomeRepairCenter.AssemblyInfoInputs.cache
+C:\Users\SAWA\Desktop\HomeRepairCenter\obj\Debug\net48\HomeRepairCenter.AssemblyInfo.cs
+C:\Users\SAWA\Desktop\HomeRepairCenter\obj\Debug\net48\HomeRepairCenter.exe
+C:\Users\SAWA\Desktop\HomeRepairCenter\obj\Debug\net48\HomeRepairCenter.pdb
